@@ -26,8 +26,7 @@ In this application, I implemented a robust algorithm for secure encryption and 
 
 
 ## Demo Video ##
-https://github.com/Y-coderr/CryptoGraphy/assets/136911056/3c7072cb-cb23-4248-a0d9-2ae57ac6d137
 
-
+https://github.com/Y-coderr/CryptoGraphy/assets/136911056/b55680f3-fa4d-4c96-a0d9-35801fa35ff6
 
 
